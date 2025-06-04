@@ -1,19 +1,9 @@
-# math
-Matematica basica para tecnologia da informação
-      Matemática na T.I. (sem IA e Jogos)
-      ┌────────────┬────────────────────────┐
-      │ Programação│ Aritmética, Álgebra,   │
-      │            │ Lógica Booleana        │
-      ├────────────┼────────────────────────┤
-      │ Bancos     │ Aritmética, Conjuntos, │
-      │ de Dados   │ Estatística, Lógica    │
-      ├────────────┼────────────────────────┤
-      │ Redes      │ Binário, Modular,      │
-      │            │ Lógica, IP Subnetting  │
-      ├────────────┼────────────────────────┤
-      │ Cripto     │ Teoria dos Números,    │
-      │ & Segurança│ Álgebra Modular        │
-      ├────────────┼────────────────────────┤
-      │ Web        │ Geometria, Porcentagem │
-      │ / Front-End│ Aritmética, Álgebra    │
-      └────────────┴────────────────────────┘
+# math# Matemática na T.I. (sem IA e Jogos)
+
+| Área          | Tipos de Cálculo Comuns           |
+|---------------|----------------------------------|
+| Programação   | Aritmética, Álgebra, Lógica Booleana |
+| Bancos de Dados | Aritmética, Conjuntos, Estatística, Lógica |
+| Redes         | Binário, Modular, Lógica, IP Subnetting |
+| Cripto & Segurança | Teoria dos Números, Álgebra Modular |
+| Web / Front-End | Geometria, Porcentagem, Aritmética, Álgebra |
